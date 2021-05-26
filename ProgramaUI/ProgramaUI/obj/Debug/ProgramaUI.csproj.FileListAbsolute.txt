@@ -1,0 +1,96 @@
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUI.exe.config
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUI.exe
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUI.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.Properties.Resources.resources
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.exe
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUtilidades.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUtilidades.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.Form1.resources
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csproj.CopyComplete
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.UCGrafica.resources
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.UCTabla.resources
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaBLL.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaDAL.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaBLL.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ProgramaDAL.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaUI\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUI.exe.config
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUI.exe
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUI.pdb
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Data.SqlClient.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Identity.Client.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaBLL.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUtilidades.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\System.Data.SqlClient.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaDAL.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaBLL.pdb
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaUtilidades.pdb
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Data.SqlClient.pdb
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Data.SqlClient.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.Identity.Client.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\System.Data.SqlClient.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ProgramaDAL.pdb
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csprojAssemblyReference.cache
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.Form1.resources
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.UCGrafica.resources
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.Properties.Resources.resources
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.UCTabla.resources
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csproj.GenerateResource.cache
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csproj.CoreCompileInputs.cache
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.csproj.CopyComplete
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.exe
+M:\&ULHI\DI\Examen final\ProgramaUI\ProgramaUI\obj\Debug\ProgramaUI.pdb

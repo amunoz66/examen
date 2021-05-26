@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\bin\Debug\ProgramaDAL.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\bin\Debug\ProgramaDAL.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\bin\Debug\ProgramaUtilidades.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\bin\Debug\ProgramaUtilidades.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\obj\Debug\ProgramaDAL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\obj\Debug\ProgramaDAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\obj\Debug\ProgramaDAL.csproj.CopyComplete
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\obj\Debug\ProgramaDAL.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaDAL\obj\Debug\ProgramaDAL.pdb

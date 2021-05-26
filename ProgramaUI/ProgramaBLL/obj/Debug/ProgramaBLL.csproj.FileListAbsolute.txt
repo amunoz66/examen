@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\bin\Debug\ProgramaBLL.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\bin\Debug\ProgramaBLL.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\bin\Debug\ProgramaDAL.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\bin\Debug\ProgramaUtilidades.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\bin\Debug\ProgramaDAL.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\bin\Debug\ProgramaUtilidades.pdb
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\obj\Debug\ProgramaBLL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\obj\Debug\ProgramaBLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\obj\Debug\ProgramaBLL.csproj.CopyComplete
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\obj\Debug\ProgramaBLL.dll
+C:\Users\admin\source\repos\ProgramaUI\ProgramaBLL\obj\Debug\ProgramaBLL.pdb
